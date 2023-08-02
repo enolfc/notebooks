@@ -1,0 +1,11 @@
+name: environment
+channels:
+  - conda-forge
+dependencies:
+  - cmcrameri
+  - s3fs
+  - numpy
+  - xarray 
+  - matplotlib 
+  - pandas
+  - python-openstackclient 
