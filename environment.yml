@@ -7,5 +7,6 @@ dependencies:
   - numpy
   - xarray 
   - matplotlib 
+  - cartopy
   - pandas
   - python-openstackclient 
